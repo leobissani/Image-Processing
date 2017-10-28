@@ -1,2 +1,2 @@
-# Processamento-de-Imagem
-Lista de algoritmos úteis para processamento de imagens
+# Image-Processing
+A list of useful algorithms for image processing
